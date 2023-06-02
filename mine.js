@@ -1,6 +1,6 @@
 var player1 = prompt("Enter player-1 name: ")
 document.querySelector("button").textContent= player1;
-var player2 = prompt("Enter player-1 name: ")
+var player2 = prompt("Enter player-2 name: ")
 document.querySelector(".name1").textContent= player1;
 document.querySelector(".name2").textContent= player2;
 var score1=0;
